@@ -5,3 +5,4 @@ cd
 ls -l
 ls -a
 ls -la
+ls -lan
