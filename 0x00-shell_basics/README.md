@@ -10,3 +10,4 @@ mv /tmp/betty /tmp/my_first_directory/betty
 rm /tmp/my_first_directory/betty
 rm -rf /tmp/my_first_directory
 cd -
+ls -la . .. /boot
