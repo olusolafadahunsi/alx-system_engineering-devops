@@ -13,3 +13,4 @@ cd -
 ls -la . .. /boot
 file /tmp/iamafile
 ln -s /bin/ls __ls __
+cp -un *.html ../
