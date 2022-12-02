@@ -7,3 +7,4 @@ touch hello
 chmod 400 hello
 chmod 744 hello
 chmod 774 hello
+chmod 777 hello
