@@ -16,3 +16,4 @@ chmod --reference=olleh hello
 -# command to change file user group- chgrp school hello
 chmod -R a+X .
 chmod a+X hello
+chown vincent:staff *
