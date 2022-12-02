@@ -12,3 +12,4 @@ chmod 007 hello
 chmod 753 hello
 chmod --reference=olleh hello
 #Command to execute permission to all subdirectories of the current directory for the owner, the group owner and all other users- chmod -R a-X .
+#create directory with permission-mkdir -m 751 my_dir
