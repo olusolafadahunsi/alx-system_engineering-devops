@@ -15,3 +15,4 @@ chmod --reference=olleh hello
 #create directory with permission-mkdir -m 751 my_dir
 -# command to change file user group- chgrp school hello
 chmod -R a+X .
+chmod a+X hello
