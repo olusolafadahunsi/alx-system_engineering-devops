@@ -19,3 +19,4 @@ chmod a+X hello
 chown vincent:staff *
 #Play star wars from terminal -telnet towel.blinkenlights.nl
 chown --from=guillaume betty hello
+chown vincent:staff _hello
