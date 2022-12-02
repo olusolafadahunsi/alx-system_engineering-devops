@@ -17,3 +17,5 @@ chmod --reference=olleh hello
 chmod -R a+X .
 chmod a+X hello
 chown vincent:staff *
+#Play star wars from terminal -telnet towel.blinkenlights.nl
+chown --from=guillaume betty hello
