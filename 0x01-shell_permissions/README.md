@@ -9,3 +9,4 @@ chmod 744 hello
 chmod 754 hello
 chmod 555 hello
 chmod 007 hello
+chmod 753 hello
