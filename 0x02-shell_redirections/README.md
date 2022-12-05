@@ -5,3 +5,4 @@ tail -n 10 /etc/passwd
 head -n 10 /etc/passwd
 head -n 3 iacta | tail -n +3
 ls -la > ls_cwd_content
+tail -n 1 iacta>>iacta
