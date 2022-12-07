@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %xn $DECIMAL
+printf "0x%04x" $DECIMAL
