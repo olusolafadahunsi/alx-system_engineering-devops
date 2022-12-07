@@ -7,9 +7,9 @@ env
 set
 BEST=School
 export BEST=School
-echo $(($TRUEKNOWLEDGE+128))""
-echo $(($POWER/$DIVIDE))""
-echo $(($BREATH**$LOVE))""
+echo $(($TRUEKNOWLEDGE+128))
+echo $(($POWER/$DIVIDE))
+echo $(($BREATH**$LOVE))
 echo $((2#$BINARY))
 printf "%s\n" {a..z}{a..z} | grep -v "oo"
 printf "%.2f\n" $NUM
